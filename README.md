@@ -1,2 +1,2 @@
-# fab-by-awpha
-FAB (Floating Action Button) for WordPress by Awpha
+# FAB (Floating Action Button) for WordPress by Awpha
+fab-by-awpha
